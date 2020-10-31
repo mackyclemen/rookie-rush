@@ -1,1 +1,4 @@
 *.exe
+template.cpp
+
+./bin
